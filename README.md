@@ -10,7 +10,7 @@ This project demonstrates the creation of an ETL (Extract, Transform, Load) data
 
 - **Data Source :** Kaggle datasets
 - **Cloud Platform :** Snowflake
-- **Technologies :Used**
+- **Technologies Used :**
   - **SnowPark API :** For in-Snowflake data processing and transformations.
   - **SnowPipe :** For automated data ingestion from stage to table.
   - **SQL and Python :** Used within Snowflake for scripting and managing the data pipeline.
